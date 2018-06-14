@@ -26,3 +26,12 @@ But our urls become un shareable
 * salt: random data attached to the password when it's hashed. 
 
 jazz hands -> lij8e7fuiu92wejioqfajfklsejf
+
+## Open browser windows
+
+* http://tinysite.com/?userID=1&name=sam&cookie=oreo
+* https://en.wikipedia.org/wiki/Query_string
+* https://rietta.com/blog/2016/02/05/bcrypt-not-sha-for-passwords/
+* https://en.wikipedia.org/wiki/Bcrypt
+* https://www.npmjs.com/package/bcrypt
+* https://github.com/expressjs/cookie-session
